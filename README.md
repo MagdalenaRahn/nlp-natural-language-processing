@@ -1,0 +1,1 @@
+This repository contains lessons and exercises about Natural Language Processing (NLP), Codeup Data Science programme, Noether cohort, starting 23 February 2023.
